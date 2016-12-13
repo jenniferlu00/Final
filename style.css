@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif|Lora');
+#intro{
+	width: 1100px;
+	position: absolute;
+	left: 200px;
+
+	}
+.mySlides{
+	width: 1100px;
+	height: 600px;
+
+}
+.slideshow_container{
+	position: absolute;
+	
+}
+
+#NYT{
+	width: 25px;
+	height: 25px;
+}
+#search{
+	width: 35px;
+	height: 35px;
+}
+#nytlogo{
+	width: 200px;
+	height: 25px;
+}
+#login{
+	width: 30px;
+	height: 30px;
+}
+#settings{
+	width: 25px;
+	height: 25px;
+}
+.myButton {
+	-moz-box-shadow:inset -1px 1px 0px -20px #ffffff;
+	-webkit-box-shadow:inset -1px 1px 0px -20px #ffffff;
+	box-shadow:inset -1px 1px 0px -20px #ffffff;
+	background-color:#ffffff;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:2px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:12px;
+	font-weight:bold;
+	padding:8px 19px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+}
+.myButton:hover {
+	background-color:#f6f6f6;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+#th1{
+	position: absolute;
+
+}
+#th2{
+	position: absolute;
+	left: 150px;
+	top: 15px;
+}
+#th3{
+	position: absolute;
+	left: 200px;
+	top: 10px;
+}
+#th4{
+	position: absolute;
+	left: 600px;
+	top: 17px;
+
+}
+#th5{
+	position: absolute;
+	left: 1320px;
+	top: 15px;
+
+	
+
+}
+#th6{
+	position: absolute;
+	left: 1380px;
+	top: 17px;
+
+}
+table{
+	border-bottom: medium;
+
+}
+h1{
+	text-align: left;
+	font-family: 'Lora', serif;
+	font-size: 40px;
+}
+#p1{
+	text-align: center;
+	width: 860px;
+	position: absolute;
+	left: 300px;
+	text-align: left;
+	font-size: 20px;
+	font-family: 'Droid Serif', serif;
+	line-height: 150%;
+
+
+}
+
+
+
+a{
+	color: 	#4169E1;
+
+}
+a:hover{
+	color: 	#4169E1;
+}
+a:visited{
+	color: black;
+}
+a:active{
+	color: 	#4169E1;
+}
+
+#line{
+	width: 1100px;
+	position: absolute;
+	left: 200px;
+	border-top: ridge;
+
+
+}
+#Pinterest{
+
+    float: left;
+    margin: 0px 15px 10px 0px;
+}
+
+.myButton2 {
+	-moz-box-shadow: 0px 0px 4px 1px #9fb4f2;
+	-webkit-box-shadow: 0px 0px 4px 1px #9fb4f2;
+	box-shadow: 0px 0px 4px 1px #9fb4f2;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #7892c2), color-stop(1, #476e9e));
+	background:-moz-linear-gradient(top, #7892c2 5%, #476e9e 100%);
+	background:-webkit-linear-gradient(top, #7892c2 5%, #476e9e 100%);
+	background:-o-linear-gradient(top, #7892c2 5%, #476e9e 100%);
+	background:-ms-linear-gradient(top, #7892c2 5%, #476e9e 100%);
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#7892c2', endColorstr='#476e9e',GradientType=0);
+	background-color:#7892c2;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	border-radius:8px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:12px;
+	padding:9px 5px;
+	text-decoration:none;
+	text-shadow:1px 4px 0px #283966;
+}
+.myButton2:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #476e9e), color-stop(1, #7892c2));
+	background:-moz-linear-gradient(top, #476e9e 5%, #7892c2 100%);
+	background:-webkit-linear-gradient(top, #476e9e 5%, #7892c2 100%);
+	background:-o-linear-gradient(top, #476e9e 5%, #7892c2 100%);
+	background:-ms-linear-gradient(top, #476e9e 5%, #7892c2 100%);
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#476e9e', endColorstr='#7892c2',GradientType=0);
+	background-color:#476e9e;
+}
+.myButton2:active {
+	position:relative;
+	top:1px;
+}
+
+.myButton2{
+	position: absolute;
+	left: 985px;
+	top:100px;
+}
+
+#table2{
+	font-family: 'Lora', serif;
+	font-size: 12px;
+
+}
+.borderline{
+	border-left: ridge;
+	
+}
+#leftline{
+	border-right: ridge;
+	padding-right: 15px;
+	
+}
+.author{
+	font-size: 11px;
+	font-family: 'Lora', serif;
+}
+#authorlink: link{
+	color: black;
+}
+#authorlink:hover{
+	border-bottom: ridge;
+
+}
+#map{
+	position: absolute;
+	right: 80px;
+}
+#authorline{
+	border-top: outset;
+}
